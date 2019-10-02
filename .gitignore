@@ -1,0 +1,8 @@
+_site
+.sass-cache
+node_modules
+_drafts
+.jekyll-metadata
+assets
+app
+.publish
