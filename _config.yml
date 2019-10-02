@@ -9,14 +9,14 @@ words_per_minute: 200
 baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Cryptogami
+description: Hackers del Mundo
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://jekyller.github.io/jasper2/
-source_url: https://github.com/jekyller/jasper2/
+production_url: https://albaficad.github.io/blog/
+source_url: https://github.com/AlbaficaD/blog
 CNAME: #add cname for website to be created
 
 # Social info
@@ -24,12 +24,12 @@ navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
-twitter: tryghost # replace by your username
+twitter: DrNy # replace by your username
 facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: jekyller # replace with your disqus username
+disqus_shortname: AlbaficaD # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
@@ -69,8 +69,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: AlbaficaD
+repo: blog
 branch: master
 relative_source: ../jasper2/
 destination: ../jasper2-pages/
